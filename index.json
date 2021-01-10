@@ -13,6 +13,13 @@
           "Github Repo"
         ]
       }
+    ], 
+    "login" : "登录", 
+    "register" : "注册", 
+    "join" : "加入CCF", 
+    "bottom" : [
+    ], 
+    "footer" : [
     ]
   }
 }
