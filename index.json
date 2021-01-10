@@ -1,8 +1,15 @@
 {
   "cn" : {
-    "lang" : "中文", 
-    "english-lang" : "Chinese", 
-    "link-lang" : "English", 
+    "lang" : {
+      "cn" : "中文", 
+      "en" : "Chinese", 
+      "href" : "/"
+    }, 
+    "link" : {
+      "cn" : "English", 
+      "en" : "English", 
+      "href" : "/en"
+    }
     "nav" : [
       {
         "title" : "关于CCF", 
