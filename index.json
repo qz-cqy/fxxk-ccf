@@ -1,1 +1,18 @@
-{}
+{
+  "cn" : {
+    "lang" : "中文", 
+    "english-lang" : "Chinese", 
+    "link-lang" : "English", 
+    "nav" : [
+      {
+        "title" : "关于CCF", 
+        "index" : [
+          "CCF简介", 
+          "CCF大事记", 
+          "联系我们", 
+          "Github Repo"
+        ]
+      }
+    ]
+  }
+}
