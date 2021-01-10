@@ -7,10 +7,22 @@
       {
         "title" : "关于CCF", 
         "index" : [
-          "CCF简介", 
-          "CCF大事记", 
-          "联系我们", 
-          "Github Repo"
+          {
+            "name" : "CCF简介", 
+            "href" : "/introduction"
+          }, 
+          {
+            "name" : "CCF大事记", 
+            "href" : "/milestone"
+          }, 
+          {
+            "name" : "联系我们", 
+            "href" : "/contact"
+          }, 
+          {
+            "name" : "Github Repo", 
+            "href" : "https://github.com/potatopotat0/fxxk-ccf"
+          }
         ]
       }
     ], 
@@ -18,8 +30,45 @@
     "register" : "注册", 
     "join" : "加入CCF", 
     "bottom" : [
+      {
+        "title" : "会员", 
+        "index" : [
+          {
+            "name" : "加入CCF", 
+            "href" : "/joinus"
+          }, 
+          {
+            "name" : "会员交费", 
+            "href" : "/donate"
+          }
+        ]
+      }, 
+      {
+        "title" : "关于CCF", 
+        "index" : [
+          {
+            "name" : "CCF简介", 
+            "href" : "/introduction"
+          }, 
+          {
+            "name" : "CCF大事记", 
+            "href" : "/milestone"
+          }, 
+          {
+            "name" : "联系我们", 
+            "href" : "/contact"
+          }, 
+          {
+            "name" : "Github Repo", 
+            "href" : "https://github.com/potatopotat0/fxxk-ccf"
+          }
+        ]
+      }
     ], 
     "footer" : [
+      "版权没有 中国收钱基金会", 
+      "联系电话： (+86)11 4514 1919 邮件：ccf@fuckc.cf 美ICP备19198105号-4 美公网安没有备11451419198105号", 
+      "网站建议或者意见请发送邮件：suggest@fuckc.cf"
     ]
   }
 }
